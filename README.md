@@ -1,2 +1,7 @@
 # Diagnostics
--This Python program runs PowerShell subprocesses to diagnose a local machine's: battery health, processor (CPU), memory (RAM), storage drive, and graphics card (GPU) performance. 
+-This Python program runs PowerShell subprocesses to diagnose a local machine's: 
+1. Battery health
+2. Processor (CPU)
+3. Memory (RAM)
+4. Storage drive
+5. Graphics card (GPU)  
