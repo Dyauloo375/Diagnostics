@@ -15,7 +15,6 @@ hardware information collection and run repeatable performance tests.
 - Benchmarks CPU computational performance
 - Benchmarks GPU computational performance
 - Tests disk storage read/write performance
-- Runs repeatable benchmarks and measures execution time
 
 
 ## Technologies
