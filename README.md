@@ -32,8 +32,4 @@ hardware information collection and run repeatable performance tests.
 - [PyTorch](https://pytorch.org/) - CPU/GPU tensor operations and
   computational benchmarking
 
-### Other Technologies
-
-- Python `subprocess`
-- Windows PowerShell
 
