@@ -4,7 +4,7 @@ A Python-based hardware diagnostics and benchmarking project designed to
 collect laptop hardware specifications and evaluate the performance of
 individual hardware components.
 
-The project combines Python with PowerShell system commands to automate
+The project combines Python with Windows PowerShell system commands to automate
 hardware information collection and run repeatable performance tests.
 
 ## Features
