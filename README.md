@@ -27,8 +27,14 @@ hardware information collection and run repeatable performance tests.
 
 ### Python Packages
 
-- [NumPy](https://numpy.org/) - Numerical computing and array-based
-  performance testing
+#### NumPy
+
+Used for numerical computing, array operations, and RAM/CPU benchmarking.
+
+'''bash
+pip install numpy
+'''
+
 - [PyTorch](https://pytorch.org/) - CPU/GPU tensor operations and
   computational benchmarking
 
